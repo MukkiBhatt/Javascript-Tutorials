@@ -1,7 +1,10 @@
-<p align="center"><img src="http://4.bp.blogspot.com/-3OLP0ju36LE/UFColgOoFYI/AAAAAAAAAXk/4xFdY2ci4lY/s1600/Photo0376ADSF.jpg"><a href="http://mukeshbhatt25.blogspot.com"><img src="https://poser.pugx.org/ulearnpro/ulearn/license.svg" alt="License"></a>
-</p>
 <p align="center">
 Mukki Bhatt</p>
+<p align="center">
+<h1>JavaScript</h1></p>
+<p align="center"><img src="http://4.bp.blogspot.com/-3OLP0ju36LE/UFColgOoFYI/AAAAAAAAAXk/4xFdY2ci4lY/s1600/Photo0376ADSF.jpg"><a href="http://mukeshbhatt25.blogspot.com"><img src="https://poser.pugx.org/ulearnpro/ulearn/license.svg" alt="License"></a>
+</p>
+
 
 * [About ULEARN](#about-ulearn)
 * [Key Features](#about-ulearn)
