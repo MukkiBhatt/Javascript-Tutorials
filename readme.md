@@ -2,7 +2,7 @@
 Mukki Bhatt</p>
 <p >
 <h1 align="center">JavaScript</h1></p>
-<p align="center"><img src="http://4.bp.blogspot.com/-3OLP0ju36LE/UFColgOoFYI/AAAAAAAAAXk/4xFdY2ci4lY/s1600/Photo0376ADSF.jpg"><a href="http://mukeshbhatt25.blogspot.com"><img src="https://poser.pugx.org/ulearnpro/ulearn/license.svg" alt="License"></a>
+<p align="center"><img src="http://4.bp.blogspot.com/-3OLP0ju36LE/UFColgOoFYI/AAAAAAAAAXk/4xFdY2ci4lY/s1600/Photo0376ADSF.jpg" width="100" height="100"><a href="http://mukeshbhatt25.blogspot.com"><img src="https://poser.pugx.org/ulearnpro/ulearn/license.svg" alt="License"></a>
 </p>
 
 
