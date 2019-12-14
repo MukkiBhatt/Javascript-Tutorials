@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>SlideShow in javascript and css</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+</head>
+<body>
+    <div class="container">
+        <div class="slideshow"></div>
+    </div>
+    <script>
+    var slideshow = document.querySelector(".slideshow");
+    var count=0;
+
+    var images ={'1.jpg','2.jpg','3.jpg','4.jpg'};
+    var limit=images.lenght-1;
+
+    window.addEventListener("load", ()=>{
+        setInterval( () =>{
+            if(count==limit){
+                return count++;
+            }
+            else{return count=0;
+                
+                }
+        
+            slideshow.style.backgroundImage='url(${images[count]})';
+
+
+
+        },2000);
+    })
+    
+    
+    </script>
+</body>
+</html>
